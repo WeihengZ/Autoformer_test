@@ -6,15 +6,15 @@
 
 # Implementation
 
-## Put your data set under the folder of data
+1. Put your data set under the folder of data
 
-## train the model
+2. train the model
 
 ```ruby
 python main.py
 ```
 
-## visualize the model performance
+3. visualize the model performance
 
 ```ruby
 python plot_prediction.py
