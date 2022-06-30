@@ -16,6 +16,6 @@ python main.py
 
 ## visualize the model performance
 
-'''ruby
+```ruby
 python plot_prediction.py
-'''
+```
